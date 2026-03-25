@@ -10,7 +10,7 @@ namespace Assignment_2_OOP
 {
     internal class Program
     {
-        private string resetColorField = "\x1b[0m"; //ASNI code
+        private string resetColorField = "\x1b[0m"; //ANSI code
         static void Main(string[] args)
         {
             Program program = new Program();
