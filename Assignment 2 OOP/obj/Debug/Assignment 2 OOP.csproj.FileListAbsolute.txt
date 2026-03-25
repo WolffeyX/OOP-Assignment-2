@@ -6,3 +6,11 @@ C:\Users\Wafi\source\repos\Assignment 2 OOP\Assignment 2 OOP\obj\Debug\Assignmen
 C:\Users\Wafi\source\repos\Assignment 2 OOP\Assignment 2 OOP\obj\Debug\Assignment 2 OOP.exe
 C:\Users\Wafi\source\repos\Assignment 2 OOP\Assignment 2 OOP\obj\Debug\Assignment 2 OOP.pdb
 C:\Users\Wafi\source\repos\Assignment 2 OOP\Assignment 2 OOP\obj\Debug\Assignment 2 OOP.exe.config
+C:\Users\ahmad\Source\Repos\OOP-Assignment-2\Assignment 2 OOP\bin\Debug\Assignment 2 OOP.exe.config
+C:\Users\ahmad\Source\Repos\OOP-Assignment-2\Assignment 2 OOP\bin\Debug\Assignment 2 OOP.exe
+C:\Users\ahmad\Source\Repos\OOP-Assignment-2\Assignment 2 OOP\bin\Debug\Assignment 2 OOP.pdb
+C:\Users\ahmad\Source\Repos\OOP-Assignment-2\Assignment 2 OOP\obj\Debug\Assignment 2 OOP.csproj.AssemblyReference.cache
+C:\Users\ahmad\Source\Repos\OOP-Assignment-2\Assignment 2 OOP\obj\Debug\Assignment 2 OOP.exe.config
+C:\Users\ahmad\Source\Repos\OOP-Assignment-2\Assignment 2 OOP\obj\Debug\Assignment 2 OOP.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Source\Repos\OOP-Assignment-2\Assignment 2 OOP\obj\Debug\Assignment 2 OOP.exe
+C:\Users\ahmad\Source\Repos\OOP-Assignment-2\Assignment 2 OOP\obj\Debug\Assignment 2 OOP.pdb
